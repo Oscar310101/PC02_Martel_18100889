@@ -26,7 +26,7 @@ class LoginActivity : AppCompatActivity() {
         btnLogin.setOnClickListener {
             val Dni = txtDni.text.toString()
             val clave = txtPassword.text.toString()
-
+            // FALTA FILTRAR EL USUARIO YA REGISTRADO
             db.collection("users").addOnCompleteListener(this) { task ->
                 if (task.isSuccessful) {
                     Snackbar
