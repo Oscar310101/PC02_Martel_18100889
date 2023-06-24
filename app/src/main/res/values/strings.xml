@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PC02_Martel_18100889</string>
+
+    <string name="btnLOGIN">LOGIN</string>
+    <string name="btnRegister">CREAR CUENTA</string>
+    <string name="Inicio">INICIO SESION</string>
+    <string name="DNI1">Ingrese su DNI</string>
+    <string name="Clave1">Ingrese su clave</string>
+
+    <string name="Crear">CREAR CUENTA</string>
+    <string name="btnRegistrar">REGISTRAR CUENTA</string>
+    <string name="DNI">Ingrese su DNI</string>
+    <string name="Nombre">Ingrese su nombre completo </string>
+    <string name="Clave">Ingrese su clave</string>
+    <string name="Clave2">Ingrese nuevamente su clave</string>
+</resources>
